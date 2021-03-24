@@ -1,0 +1,31 @@
+_repo: Crawford-s-Defeat-A-Tale-of-the-Frontier-in-1812_64730
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Public Library of Fort Wayne and Allen County
+    aliases:
+    - Emerine J. Hamilton Reading Room
+    - Fort Wayne (Ind.). Public Library of Fort Wayne and Allen County
+    - Fort Wayne Public Library
+    - Allen County (Ind.). Public Library of Fort Wayne and Allen County
+    - Ft. Wayne Public Library
+    gutenberg_agent_id: '53025'
+    url: http://www.gutenberg.org/2009/agents/53025
+    wikipedia: https://en.wikipedia.org/wiki/Allen_County_Public_Library
+description: ''
+gutenberg_issued: '2021-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64730'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mount Vernon (Ohio) -- History'
+- !lcsh 'Mount Vernon (Ohio) -- Anecdotes'
+- !lcsh 'Crawford, Archibald'
+- !lcc 'F476'
+- GITenberg
+title: 'Crawford''s Defeat: A Tale of the Frontier in 1812'
+url: http://www.gutenberg.org/ebooks/64730
