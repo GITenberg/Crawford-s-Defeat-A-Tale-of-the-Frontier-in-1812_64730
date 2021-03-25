@@ -1,5 +1,8 @@
 _repo: Crawford-s-Defeat-A-Tale-of-the-Frontier-in-1812_64730
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64730-h/images/cover.jpg
 creator:
   author:
     agent_name: Public Library of Fort Wayne and Allen County
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53025
     wikipedia: https://en.wikipedia.org/wiki/Allen_County_Public_Library
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64730#Crawford-s-Defeat-A-Tale-of-the-Frontier-in-1812
 gutenberg_issued: '2021-03-07'
 gutenberg_type: Text
 identifiers:
